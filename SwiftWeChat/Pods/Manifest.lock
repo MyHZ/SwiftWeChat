@@ -1,0 +1,48 @@
+PODS:
+  - JSAnimatedImagesView (1.0.0):
+    - MSWeakTimer (~> 1.0)
+  - KxMenu (1)
+  - MSWeakTimer (1.1.0)
+  - pop (1.0.9)
+  - PopMenu (2.4):
+    - pop
+    - XHRealTimeBlur
+  - RongCloudIM (2.8.9):
+    - RongCloudIM/CallKit (= 2.8.9)
+    - RongCloudIM/CallLib (= 2.8.9)
+    - RongCloudIM/IMKit (= 2.8.9)
+    - RongCloudIM/IMLib (= 2.8.9)
+    - RongCloudIM/RedPacket (= 2.8.9)
+    - RongCloudIM/Sticker (= 2.8.9)
+  - RongCloudIM/CallKit (2.8.9):
+    - RongCloudIM/CallLib
+    - RongCloudIM/IMKit
+  - RongCloudIM/CallLib (2.8.9):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMKit (2.8.9):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (2.8.9)
+  - RongCloudIM/RedPacket (2.8.9):
+    - RongCloudIM/IMKit
+  - RongCloudIM/Sticker (2.8.9):
+    - RongCloudIM/IMKit
+  - XHRealTimeBlur (1.7)
+
+DEPENDENCIES:
+  - JSAnimatedImagesView
+  - KxMenu
+  - PopMenu
+  - RongCloudIM (~> 2.8.9)
+
+SPEC CHECKSUMS:
+  JSAnimatedImagesView: d5c5f561280171ce13f1f08ba9834c47a1f27bfc
+  KxMenu: c025365712f55fa99feb7830fbb7dea0e912be72
+  MSWeakTimer: 9426150f933b80ed3acf3f6d228e4b61f0e303c8
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  PopMenu: 26b97baeaf250070f4f61b93727ca86d127d7bc5
+  RongCloudIM: 3ba011d67e5794d66b9723c7160fe1c6fdb9899f
+  XHRealTimeBlur: 661fadd5691ba2d349758e8fd5fbdb499ac55f8c
+
+PODFILE CHECKSUM: e809d8978b3740c97a6ea14054cee7fcea15cee8
+
+COCOAPODS: 1.2.1.beta.1

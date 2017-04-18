@@ -1,0 +1,6 @@
+framework module Pods_SwiftWeChat {
+  umbrella header "Pods-SwiftWeChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
